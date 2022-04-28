@@ -22,7 +22,7 @@ res.send('api is working');
 
 });
 
-app.post('/add', (req,res)=>{
+app.post('/bfhl', (req,res)=>{
 
 
     //const req1 =  [7,18,21,2];
